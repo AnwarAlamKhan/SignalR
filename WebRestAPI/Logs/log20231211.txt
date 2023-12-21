@@ -1,0 +1,26 @@
+2023-12-11 17:40:12.344 +00:00 [WRN] Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+2023-12-11 17:40:12.421 +00:00 [WRN] No XML encryptor configured. Key {24b9d12e-7595-48ec-8a77-55609b71cb6e} may be persisted to storage in unencrypted form.
+2023-12-11 17:50:28.705 +00:00 [WRN] Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+2023-12-11 17:52:34.268 +00:00 [INF] HTTP GET / responded 307 in 4.7101 ms
+2023-12-11 17:52:34.394 +00:00 [INF] HTTP GET / responded 404 in 110.6536 ms
+2023-12-11 18:12:58.779 +00:00 [WRN] Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+2023-12-11 18:12:58.847 +00:00 [WRN] No XML encryptor configured. Key {da3b1922-ee9e-4682-b2aa-09263ceb485c} may be persisted to storage in unencrypted form.
+2023-12-11 18:15:34.105 +00:00 [INF] HTTP GET /publisher responded 101 in 91794.9863 ms
+2023-12-11 18:16:26.442 +00:00 [INF] HTTP GET /publisher responded 101 in 50865.9720 ms
+2023-12-11 19:57:07.909 +01:00 [INF] HTTP GET /publisher responded 101 in 121021.9031 ms
+2023-12-11 19:58:51.580 +01:00 [INF] HTTP GET /publisher responded 101 in 97493.1983 ms
+2023-12-11 20:01:17.128 +01:00 [INF] HTTP GET /Hub-publisher responded 101 in 8778.1841 ms
+2023-12-11 20:01:48.945 +01:00 [INF] HTTP GET /Hub-publisher responded 101 in 30809.6603 ms
+2023-12-11 20:01:55.897 +01:00 [INF] HTTP GET /Hub-publisher responded 101 in 4342.8011 ms
+2023-12-11 20:02:08.708 +01:00 [INF] HTTP GET /Hub-publisher responded 101 in 10953.0180 ms
+2023-12-11 20:30:39.929 +01:00 [INF] HTTP GET /hub-publisher responded 101 in 69384.6790 ms
+2023-12-11 20:30:55.191 +01:00 [INF] HTTP GET /hub-publisher responded 307 in 4.5700 ms
+2023-12-11 20:31:36.884 +01:00 [INF] HTTP GET /hub-publisher responded 307 in 3.7080 ms
+2023-12-11 20:39:20.471 +01:00 [INF] HTTP GET /hub-publisher responded 307 in 5.6148 ms
+2023-12-11 20:43:22.411 +01:00 [INF] HTTP GET /hub-publisher responded 307 in 5.9677 ms
+2023-12-11 21:01:53.726 +01:00 [INF] HTTP GET /hub-publisher responded 307 in 4.4022 ms
+2023-12-11 21:02:09.277 +01:00 [INF] HTTP GET /hub-publisher responded 101 in 15485.2459 ms
+2023-12-11 21:05:16.650 +01:00 [INF] HTTP OPTIONS /hub-publisher/negotiate responded 405 in 86.5759 ms
+2023-12-11 21:05:39.929 +01:00 [INF] HTTP OPTIONS /hub-publisher/negotiate responded 405 in 0.3996 ms
+2023-12-11 21:06:04.032 +01:00 [INF] HTTP OPTIONS /hub-publisher/negotiate responded 405 in 1873.5456 ms
+2023-12-11 21:07:29.985 +01:00 [INF] HTTP OPTIONS /productHub/negotiate responded 404 in 4049.6835 ms

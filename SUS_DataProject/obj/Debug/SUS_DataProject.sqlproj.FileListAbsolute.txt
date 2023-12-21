@@ -1,0 +1,6 @@
+C:\SUS_POC\DockerWebAPI_Gen_Bearer_Token\WebSolution\SUS_DataProject\bin\Debug\SUS_DataProject.dacpac
+C:\SUS_POC\DockerWebAPI_Gen_Bearer_Token\WebSolution\SUS_DataProject\bin\Debug\SUS_DataProject.dll
+C:\SUS_POC\DockerWebAPI_Gen_Bearer_Token\WebSolution\SUS_DataProject\bin\Debug\SUS_DataProject.pdb
+C:\SUS_POC\DockerWebAPI_Gen_Bearer_Token\WebSolution\SUS_DataProject\obj\Debug\SUS_DataProject.sqlproj.AssemblyReference.cache
+C:\SUS_POC\DockerWebAPI_Gen_Bearer_Token\WebSolution\SUS_DataProject\obj\Debug\SUS_DataProject.dll
+C:\SUS_POC\DockerWebAPI_Gen_Bearer_Token\WebSolution\SUS_DataProject\obj\Debug\SUS_DataProject.pdb

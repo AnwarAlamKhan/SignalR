@@ -1,0 +1,49 @@
+﻿@model List<PageData>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+    table, th, td {
+        border: 1px solid;
+    }
+</style>
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <table style="height:50%;width:50%">
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.date</td>
+                    <td>@item.temperatureC</td>
+                    <td>@item.summary</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="container">
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-2">Product Name</div>
+        <div class="col-4"><input type="text" id="productName" /></div>
+    </div>
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-6">
+            <input type="button" id="sendButton" value="Save" />
+        </div>
+        <div class="col-6">
+            <input type="button" id="resetButton" value="Reset" />
+        </div>
+    </div>
+</div>
+@section Scripts
+    {
+
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+    <script src="~/js/product.js"></script>
+}
+

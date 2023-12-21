@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebRestAPI", "WebRestAPI.csproj", "{35DE1BC7-36A2-4C3E-94CB-9FF0CE6B308B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35DE1BC7-36A2-4C3E-94CB-9FF0CE6B308B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DE1BC7-36A2-4C3E-94CB-9FF0CE6B308B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DE1BC7-36A2-4C3E-94CB-9FF0CE6B308B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DE1BC7-36A2-4C3E-94CB-9FF0CE6B308B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3C3C917-E9A6-4B5D-BEB4-D642D165EF9C}
+	EndGlobalSection
+EndGlobal
